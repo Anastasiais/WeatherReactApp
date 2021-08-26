@@ -1,5 +1,5 @@
-import WeatherInfo from "./WeatherInfo";
-import styled from "styled-components";
+import WeatherInfo from "./WeatherInfo"
+import styled from "styled-components"
 
 
 const Container = styled.div`
@@ -42,7 +42,7 @@ function App() {
        <WeatherInfo />
        </Content>
     </Container>
-  );
+  )
 }
 
 export default App
