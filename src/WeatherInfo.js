@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
-import CardInformation from "./components/CardInformation"
+import CardInformation from "./CardInformation"
 
 
 const WeatherInfo = () => {
